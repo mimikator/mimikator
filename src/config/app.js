@@ -11,7 +11,7 @@ export const APP_CONFIG = {
   // 🐙 GitHub (données partagées)
   GITHUB_OWNER: "rakou-fr",
   GITHUB_REPO: "app-mimi",
-  GITHUB_TOKEN_KEY: ""
+  GITHUB_TOKEN_KEY: "",
 
   // 🌸 Cycle menstruel (fallback si pas en localStorage)
   CYCLE_DEFAULT: {
